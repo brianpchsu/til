@@ -19,5 +19,5 @@ I constantly learn new things. This is a repo to share my daily learnings.
 
 &copy; Brian Hsu
 
-This repository is licensed under the MIT license. See `LICENSE` for
+This repository is licensed under the MIT license. See [LICENSE](LICENSE) for
 details.
