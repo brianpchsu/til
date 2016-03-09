@@ -15,6 +15,8 @@ I constantly learn new things. This is a repo to share my daily learnings.
 - [Clean Up Old Homebrew Files](mac/clean-up-old-homebrew-files.md)
 - [Know Your Short Cuts In All Apps] (mac/know-your-short-cuts-in-all-apps.md)
 
+### Productivity
+- [Increase productivity: iTerm2 + oh my zsh + solarized + Meslo powerline font](productivity/iterm2+zsh+solarized+powerline_font.md)
 ## License
 
 &copy; Brian Hsu
