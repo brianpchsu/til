@@ -17,6 +17,8 @@ I constantly learn new things. This is a repo to share my daily learnings.
 
 ### Productivity
 - [Increase productivity: iTerm2 + oh my zsh + solarized + Meslo powerline font](productivity/iterm2+zsh+solarized+powerline_font.md)
+
+
 ## License
 
 &copy; Brian Hsu
