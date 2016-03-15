@@ -9,6 +9,7 @@ I constantly learn new things. This is a repo to share my daily learnings.
 * [Mac](#mac)
 
 ### JavaScript
+- [Use Babel to start writing ES6](javascript/use-babel-to-start-writing-es6.md)
 
 ### Mac
 - [Default Screenshot Location](mac/default-screenshot-location.md)

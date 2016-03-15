@@ -65,7 +65,7 @@ watch: {
 }
 ```
 
-If you use karma, you might also want to exclude pre-compile file out from test. (karma.conf.js)
+If you use karma, you might also want to exclude pre-compile files out from test. (karma.conf.js)
 
 ```
 exclude:['app/**/*.es6.js']
