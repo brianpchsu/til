@@ -7,6 +7,7 @@ I constantly learn new things. This is a repo to share my daily learnings.
 ### Categories
 * [JavaScript](#javascript)
 * [Mac](#mac)
+* [Productivity](#productivity)
 
 ### JavaScript
 - [Use Babel to start writing ES6](javascript/use-babel-to-start-writing-es6.md)
