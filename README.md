@@ -8,6 +8,7 @@ I constantly learn new things. This is a repo to share my daily learnings.
 * [JavaScript](#javascript)
 * [Mac](#mac)
 * [Productivity](#productivity)
+* [Git](#git)
 
 ### JavaScript
 - [Use Babel to start writing ES6](javascript/use-babel-to-start-writing-es6.md)
@@ -20,6 +21,8 @@ I constantly learn new things. This is a repo to share my daily learnings.
 ### Productivity
 - [Increase productivity: iTerm2 + oh my zsh + solarized + Meslo powerline font](productivity/iterm2+zsh+solarized+powerline_font.md)
 
+### Git
+- [Remove .DS_Store files from a Git repository](git/remove-DS_Store-in-repository.md)
 
 ## License
 
