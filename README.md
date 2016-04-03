@@ -23,6 +23,7 @@ I learn new things everyday. This is a repo to share my daily learnings.
 
 ### Git
 - [Remove .DS_Store files from a Git repository](git/remove-DS_Store-in-repository.md)
+- [Clone remote branch with git](git/clone-remote-branch-with-git.md)
 
 ## License
 

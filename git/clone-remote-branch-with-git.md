@@ -2,7 +2,7 @@
 
 When you clone a repo with git, you get the master branch. You can see all your local branches using
 
-```
+```bash
 $ git branch
 * master
 ```
@@ -23,7 +23,7 @@ $ git branch -a
 
 If you want to work on an upstream branch, you'll need to create a local tracking branch:
 
-```
+```bash
 $ git checkout -b experimental origin/experimental
 ```
 
@@ -34,11 +34,13 @@ Switched to a new branch 'experimental'
 
 ```
 
-Now, if you look at your local branches, this is what you'll see:
-```
+If you look at your local branches, this is what you'll see:
+```bash
 $ git branch
 * experimental
   master
 ```
+
+Now you can start working on the experimental branch. Yeah!
 
 [source](http://stackoverflow.com/a/72156/3525493)
