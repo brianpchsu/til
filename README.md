@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-I learn new things everyday. This is a repo to share my daily learnings.
+I learn new things everyday. This is the repo to share my daily learnings.
 
 ### Categories
 * [JavaScript](#javascript)
