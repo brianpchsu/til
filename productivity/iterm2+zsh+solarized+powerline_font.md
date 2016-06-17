@@ -1,4 +1,4 @@
-# Increase productivity: iTerm2 + oh my zsh + solarized + Meslo powerline font
+g# Increase productivity: iTerm2 + oh my zsh + solarized + Meslo powerline font
 
 ![My terminal] (./dailyTerminal.png?raw=true)
 

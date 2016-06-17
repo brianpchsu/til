@@ -25,6 +25,7 @@ I learn new things everyday. This is the repo to share my daily learnings.
 - [Remove .DS_Store files from a Git repository](git/remove-DS_Store-in-repository.md)
 - [Clone remote branch with git](git/clone-remote-branch-with-git.md)
 - [Tag branch or commit from a Git repository](git/tag-branch-or-commit.md)
+- [List all branches that are already merged into master (and remove them)](git/list_and_remove_all_branches_that_are_already_merged_into_master.md)
 
 ## License
 

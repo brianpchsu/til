@@ -12,6 +12,8 @@ And you can also remove all the branches that already merged to master
 git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d
 ```
 
+![Branches got clean] (./clean_branches.png?raw=true)
+
 Isn't it great to have a clean repo after clean up? :)
 
 [source](https://github.com/git-tips/tips)
